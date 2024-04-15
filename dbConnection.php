@@ -1,6 +1,6 @@
 <?php
-$databaseHost = 'app-s.mysql.database.azure.com';
-$databaseUsername = 'Azan';
+$databaseHost = 'crud-s.mysql.database.azure.com';
+$databaseUsername = 'CrudAdmin';
 $databasePassword = 'Admin1234567';
 $databaseName = 'test';
 
